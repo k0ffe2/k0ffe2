@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="210" height="54" viewBox="0 0 210 54" role="img" aria-label="AUES.CC">
+<defs><linearGradient id="b" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#142B22"/><stop offset="1" stop-color="#10221B"/></linearGradient></defs>
+<rect x="1" y="1" width="208" height="52" rx="17" fill="url(#b)" stroke="#397D57" stroke-width="1.5"/>
+<g fill="none" stroke="#78E2A7" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" transform="translate(4 3)"><circle cx="24" cy="24" r="10"/><path d="M14 24h20M24 14a18 18 0 0 1 0 20M24 14a18 18 0 0 0 0 20"/></g>
+<text x="79" y="34" fill="#F1FFF8" font-family="Arial,Helvetica,sans-serif" font-size="19" font-weight="600">AUES.CC</text>
+</svg>
