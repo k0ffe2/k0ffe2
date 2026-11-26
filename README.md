@@ -1,135 +1,114 @@
 
-<!-- ANIMATED HEADER -->
+<!-- HEADER -->
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,50:161B22,100:238636&text=Olzhas%20Adimuldayev&fontSize=42&fontColor=FFFFFF&fontAlignY=36&desc=Information%20Security%20%7C%20Software%20Development&descAlignY=58&descSize=17&animation=fadeIn" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0B1220,45:142B45,100:087E8B&text=Olzhas%20Adimuldayev&fontSize=42&fontColor=EAFBFF&fontAlignY=38&animation=fadeIn&desc=Information%20Security%20%7C%20Software%20Development&descSize=16&descAlignY=60&descColor=BAE6FD" />
 </p>
 
-<!-- TYPING ANIMATION -->
+<!-- TYPING EFFECT -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Cybersecurity+student+at+AUES;Building+web+applications+and+tools;Exploring+Linux+and+networking;Creator+of+AUES.CC" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=67E8F9&center=true&vCenter=true&width=650&lines=Information+Security+Student+at+AUES;Building+Real+World+Projects;Exploring+Backend+%26+Infrastructure;Interested+in+Cybersecurity+%26+Networking" />
 </p>
 
 <p align="center">
   <a href="https://aues.cc">
-    <img src="https://img.shields.io/badge/Website-AUES.CC-238636?style=for-the-badge&logo=googlechrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/AUES.CC-087E8B?style=flat-square&logo=googlechrome&logoColor=white" />
   </a>
   <a href="https://github.com/k0ffe2">
-    <img src="https://img.shields.io/badge/GitHub-k0ffe2-161B22?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-k0ffe2-243449?style=flat-square&logo=github&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-Hey! I'm **Olzhas Adimuldayev**, a university student from Almaty, Kazakhstan, studying Information Security at Almaty University of Power Engineering and Telecommunications (AUES).
+I'm **Olzhas Adimuldayev**, an Information Security student at **Almaty University of Power Engineering and Telecommunications (AUES)**, based in Almaty, Kazakhstan.
 
-I'm interested in software development, cybersecurity, networking and backend engineering.
+My interests include software development, cybersecurity, networking and backend infrastructure.
 
-I enjoy building things from scratch, experimenting with new technologies and turning ideas into working projects.
+I enjoy building my own projects, experimenting with technologies and learning how systems work behind the scenes.
 
-- 🎓 Studying Information Security at AUES
-- 💻 Building web applications and personal projects
-- 🌐 Interested in networking and infrastructure
-- 🐧 Working with Linux and server environments
-- 🔐 Exploring cybersecurity and information security
-- 📚 Always learning and improving my technical skills
+- 🎓 Information Security student at AUES
+- 💻 Developing web applications and personal software projects
+- 🌐 Interested in networking and server infrastructure
+- 🐧 Working with Linux and cloud technologies
+- 🔐 Exploring cybersecurity and network security
 
 ---
 
-## 🚀 Featured Projects
+## Projects
 
-### 🌐 AUES.CC
+### [AUES.CC](https://aues.cc)
+**Academic platform for AUES students**
 
-**A platform built for AUES students.**
+AUES.CC is a project I created to make academic information easier to track and manage.
 
-AUES.CC helps students work with their academic information in one place.
+- GPA and grade calculations
+- Academic performance monitoring
+- Semester and subject tracking
+- Student-oriented tools and utilities
 
-- GPA and academic performance calculations
-- Grade tracking and semester monitoring
-- Academic progress tools
-- Student-oriented utilities
+`JavaScript` `Cloudflare Workers` `Cloudflare D1` `SQLite`
 
-**Technologies:** Cloudflare Workers, D1, SQLite, JavaScript.
+### Veyra VPN
+**Personal VPN infrastructure project**
 
-[Visit AUES.CC](https://aues.cc)
-
-### 🔐 Veyra VPN
-
-**My personal VPN infrastructure project.**
-
-Building a VPN service with a focus on secure connectivity and access management.
+Building a VPN service with an emphasis on secure connectivity, access management and infrastructure.
 
 - Xray — VLESS + REALITY
 - Ubuntu server infrastructure
-- Multi-location architecture planning
+- Multi-location architecture
 - Subscription and access management
 
-### 🤖 Telegram Quiz Bot
+`Linux` `Ubuntu` `Xray` `VLESS` `REALITY`
 
-**A serverless quiz platform.**
+### Telegram Quiz Bot
+**Serverless quiz and messaging platform**
 
-Working on a Telegram quiz system with Cloudflare infrastructure.
+A Telegram-based quiz system built around Cloudflare infrastructure.
 
+- Telegram Bot API integration
 - Cloudflare Workers
 - D1 database
-- Cloudflare Queues
-- Telegram Bot API
-- Reliable message delivery and session management
+- Queue-based message delivery
+- User sessions and answer processing
+
+`JavaScript` `Cloudflare Workers` `D1` `Queues`
 
 ---
 
-## 🛠️ Technologies & Tools
-
-### Programming
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
-
-### Infrastructure & Databases
-<p>
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-</p>
-
-### Networking & Security
-<p>
-  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
-  <img src="https://img.shields.io/badge/Xray-2C2C2C?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</p>
-
----
-
-## 📊 GitHub Statistics
+## Technologies & Tools
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=k0ffe2&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k0ffe2&layout=compact&theme=github_dark&hide_border=true" />
+  <img src="https://skillicons.dev/icons?i=python,js,nodejs,html,css,linux,cloudflare,git,github,vscode&theme=dark" />
+</p>
+
+**Also working with:** SQLite, Cisco Packet Tracer, TCP/IP, Xray and Cloudflare Queues.
+
+---
+
+## GitHub Statistics
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=k0ffe2&show_icons=true&hide_border=true&bg_color=0B1220&title_color=67E8F9&icon_color=2DD4BF&text_color=CBD5E1&ring_color=2DD4BF" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k0ffe2&layout=compact&hide_border=true&bg_color=0B1220&title_color=67E8F9&text_color=CBD5E1" />
 </p>
 
 ---
 
-## 🎯 Current Focus
+## Currently Exploring
 
-- Improving my programming skills
-- Learning more about cybersecurity
-- Exploring backend and cloud infrastructure
-- Developing my own software projects
-- Improving Linux and networking knowledge
+- Cybersecurity and network security
+- Backend development and databases
+- Linux system administration
+- Cloud infrastructure and automation
 
 ---
 
 <p align="center">
-  <i>Building, learning and improving — one project at a time.</i>
+  <i>Building projects, learning new technologies and improving every day.</i>
 </p>
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:238636,100:0D1117&height=100&section=footer" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:087E8B,100:0B1220&section=footer" />
 </p>
