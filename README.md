@@ -6,7 +6,7 @@
 
 <a href="https://aues.cc"><img src="assets/website.svg" alt="AUES.CC" width="175" /></a>&nbsp;
 <a href="https://github.com/k0ffe2"><img src="assets/github.svg" alt="GitHub" width="175" /></a>&nbsp;
-<a href="https://www.linkedin.com/in/olzhas-adimuldayev/"><img src="assets/linkedin.svg" alt="LinkedIn" width="175" /></a>
+<a href="https://www.linkedin.com/in/olzhas-adimuldayev-388b19385/"><img src="assets/linkedin.svg" alt="LinkedIn" width="175" /></a>
 
 </div>
 
