@@ -1,142 +1,67 @@
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=190&color=0:0B0F14,55:10291C,100:15803D&text=Olzhas%20Adimuldayev&fontSize=42&fontColor=FFFFFF&fontAlignY=40&desc=Information%20Security%20%7C%20Software%20Development&descSize=16&descAlignY=64&descColor=D1FAE5&animation=fadeIn" alt="Olzhas Adimuldayev" />
+<img src="assets/header.svg" alt="Olzhas Adimuldayev — developer profile" width="100%" />
 
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3200&pause=1100&color=21A366&center=true&vCenter=true&width=750&height=56&lines=Building+web+apps+and+tools;Exploring+cybersecurity+and+networking;Working+with+Linux+and+cloud+infrastructure" alt="Animated introduction" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3200&pause=1100&color=22C55E&center=true&vCenter=true&width=620&height=55&lines=Cybersecurity+student+at+AUES;Building+my+own+software+projects;Exploring+Linux+and+networking;Creator+of+AUES.CC" alt="Typing animation" />
-
-<br/>
-
-<a href="https://aues.cc">
-  <img src="https://img.shields.io/badge/AUES.CC-15803D?style=for-the-badge&logo=googlechrome&logoColor=white" alt="AUES.CC" />
-</a>
-&nbsp;
-<a href="https://github.com/k0ffe2">
-  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/olzhas-adimuldayev/">
-  <img src="https://img.shields.io/badge/LinkedIn-166534?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
+<a href="https://aues.cc"><img src="assets/website.svg" alt="AUES.CC" width="175" /></a>&nbsp;
+<a href="https://github.com/k0ffe2"><img src="assets/github.svg" alt="GitHub" width="175" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/olzhas-adimuldayev/"><img src="assets/linkedin.svg" alt="LinkedIn" width="175" /></a>
 
 </div>
 
 ---
 
-## About Me
+## About me
 
-Hi, I'm **Olzhas**, an Information Security student at **Almaty University of Power Engineering and Telecommunications (AUES)** in Kazakhstan.
+Hi, I'm **Olzhas**, an Information Security student at **Almaty University of Power Engineering and Telecommunications (AUES)** in Almaty, Kazakhstan.
 
-I enjoy building web applications, working with servers, and exploring how networks and systems work.
+I'm interested in **software development, cybersecurity, networking, and backend infrastructure**. I enjoy building projects I can actually use, figuring out how systems work, and learning new tools along the way.
 
-Most of my projects are deployed independently, so not all of my work is available as public GitHub repositories.
+- **Education:** BSc in Information Security, AUES
+- **Working with:** JavaScript, Python, Cloudflare, Linux, and networking
+- **Currently exploring:** backend development, infrastructure, and network security
 
-- 🎓 Studying Information Security at AUES
-- 💻 Building web applications and backend services
-- 🌐 Interested in networking and server infrastructure
-- 🔐 Learning more about cybersecurity
-- 🐧 Working with Linux and cloud technologies
+## Projects
 
----
+### [AUES.CC](https://aues.cc) · Live
+A student-focused web platform I built for AUES. It brings together tools for **GPA calculations, grade tracking, academic progress, and semester planning**.
 
-## Featured Projects
+`JavaScript` · `Cloudflare Workers` · `D1 / SQLite`
 
-### 🌐 [AUES.CC](https://aues.cc)
+### Veyra VPN · In development
+My own VPN infrastructure project using **Xray (VLESS + REALITY)** and Ubuntu servers. I'm working on access management and planning support for multiple locations.
 
-**Academic platform for AUES students**
+`Linux` · `Ubuntu` · `Xray` · `VLESS + REALITY`
 
-AUES.CC is a web platform I built to make academic information easier for students to manage.
+### Telegram Quiz Bot
+A serverless quiz system with user sessions, answer processing, an admin interface, and a queue for Telegram message delivery.
 
-**Features**
-- GPA and grade calculations
-- Academic performance monitoring
-- Semester and subject tracking
-- Student-focused academic tools
+`JavaScript` · `Cloudflare Workers` · `D1` · `Queues` · `Telegram Bot API`
 
-**Stack:** `JavaScript` `Cloudflare Workers` `Cloudflare D1` `SQLite`
+> Most of my projects run on Cloudflare or private servers, so their source code isn't published here.
 
-**[Visit Website](https://aues.cc)**
-
-### 🔐 Veyra VPN
-
-**Personal VPN infrastructure project**
-
-A VPN service I'm developing with a focus on connectivity, server infrastructure, and access management.
-
-**Features & development**
-- Xray with VLESS + REALITY
-- Ubuntu-based server infrastructure
-- Access and subscription management
-- Multi-location support planning
-
-**Stack:** `Ubuntu` `Linux` `Xray` `VLESS` `REALITY`
-
-**Status:** In development
-
-### 🤖 Telegram Quiz Bot
-
-**Serverless quiz and messaging platform**
-
-A Telegram-based quiz system built using Cloudflare services.
-
-**Features**
-- Telegram Bot API integration
-- User sessions and answer processing
-- Cloudflare D1 database
-- Queue-based message delivery
-- Administrative management tools
-
-**Stack:** `JavaScript` `Cloudflare Workers` `D1` `Queues`
-
----
-
-## Technologies & Tools
+## Technologies
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,python,html,css,nodejs,linux,cloudflare,git,github,vscode&theme=dark&perline=10" alt="Technologies" />
+<img src="https://skillicons.dev/icons?i=js,python,html,css,nodejs,linux,cloudflare,git,github,vscode&theme=dark&perline=10" alt="JavaScript, Python, HTML, CSS, Node.js, Linux, Cloudflare, Git, GitHub and VS Code" />
 
-<br/><br/>
+<br />
 
-<img src="https://img.shields.io/badge/SQLite-0F172A?style=flat-square&logo=sqlite&logoColor=22C55E" alt="SQLite" />
-<img src="https://img.shields.io/badge/Cisco-0F172A?style=flat-square&logo=cisco&logoColor=22C55E" alt="Cisco" />
-<img src="https://img.shields.io/badge/TCP%2FIP-0F172A?style=flat-square&logoColor=22C55E" alt="TCP/IP" />
-<img src="https://img.shields.io/badge/Cloudflare_D1-0F172A?style=flat-square&logo=cloudflare&logoColor=22C55E" alt="Cloudflare D1" />
+`SQLite` · `Cloudflare D1` · `Cisco Networking` · `TCP/IP` · `Xray`
 
 </div>
 
----
-
-## What I'm Learning
+## Currently learning
 
 - Cybersecurity and network security
-- Backend development
+- Backend development and databases
 - Linux system administration
-- Networking and cloud infrastructure
-- Building and maintaining web services
+- Networking, cloud infrastructure, and automation
 
 ---
 
 <div align="center">
-
-### Connect With Me
-
-<a href="https://aues.cc">
-  <img src="https://img.shields.io/badge/Website-15803D?style=flat-square&logo=googlechrome&logoColor=white" alt="Website" />
-</a>
-<a href="https://github.com/k0ffe2">
-  <img src="https://img.shields.io/badge/GitHub-111827?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-</a>
-<a href="https://www.linkedin.com/in/olzhas-adimuldayev/">
-  <img src="https://img.shields.io/badge/LinkedIn-166534?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-
-<br/><br/>
-
-<sub>Building useful things and learning along the way.</sub>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=12&color=0:0B0F14,50:166534,100:22C55E&section=footer" alt="Footer" />
-
+<sub>Building useful projects and learning along the way.</sub>
 </div>
